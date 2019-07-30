@@ -232,6 +232,6 @@ int main()
             printf("\n%s has money:%d \n",p[i].name,amount[i]);
         }
 
-        printf("\n\n************CONGRATULATIONS %s, YOU HAVE WON THE GAME!!******************\n\n",p[winner_id].name,amount[winner_id]);
+        printf("\n\n************CONGRATULATIONS %s, YOU HAVE WON THE GAME!!******************\n\n",p[winner_id].name);
     return 0;
 }
