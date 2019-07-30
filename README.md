@@ -1,2 +1,2 @@
-# BussinessGame
-please go through the businessgame_RULES to get details of this game.
+# BusinessGame
+please go through the BusinessGame_RULES to get details of this game.
